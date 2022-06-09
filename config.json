@@ -1,7 +1,7 @@
 {
   "github-token": "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",
-  "jira-user": "dan@betteragency.io",
-  "jira-pass": "",
+  "jira-token": "wWy9a4qm9l1L8ATHMUkA2291,
+  "jira-secret": "",
   "jira-project": "GSB",
   "jira-uri": "https://better-agency.atlassian.net/jira/",
   "log-level": "info",
