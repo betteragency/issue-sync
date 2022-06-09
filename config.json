@@ -1,3 +1,9 @@
 {
-  "log-level": "info"
+  "github-token": "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",
+  "jira-user": "dan@betteragency.io",
+  "jira-pass": "",
+  "jira-project": "GSB",
+  "jira-uri": "https://better-agency.atlassian.net/jira/",
+  "log-level": "info",
+  "repo-name": "betteragency/insurance"
 }
